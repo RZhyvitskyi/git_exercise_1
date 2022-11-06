@@ -1,3 +1,5 @@
 apple
-orange
+oranges
 pineapple
+kiwi
+tomato
