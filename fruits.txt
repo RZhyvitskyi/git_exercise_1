@@ -1,4 +1,6 @@
 apple
-orange
-mango
+oranges
 pineapple
+kiwi
+tomato
+mango
